@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hello there! My name is Leandro Alencar<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
- I'm 17 years old, just a guy from Brazil that finished High School and is trying to learn how to write code.
+ I'm 18 years old, just a guy from Brazil that finished High School and is trying to learn how to write code.
  
 - :zap: I love math, programming, data science, and aviation.
 - 🔭 I’m currently learning web development
