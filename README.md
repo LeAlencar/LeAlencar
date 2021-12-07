@@ -48,7 +48,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/iliandro_
+[1]: https://twitter.com/lealencar__
 [2]: https://www.linkedin.com/in/alencarleandro1/
 
 [vscode]: https://code.visualstudio.com/
