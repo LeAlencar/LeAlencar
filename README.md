@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 - [Twitter](https://twitter.com/lealencar__) 
 - [LinkedIn](https://www.linkedin.com/in/alencarleandro1/) 
 
+[![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=lealencar&count_private=true&show_icons=true&theme=onedark)](https://github.com/lealencar/github-readme-stats)
+
 [react]: https://reactjs.org/
 [js]: https://www.javascript.com/
 [node]: https://nodejs.org/
