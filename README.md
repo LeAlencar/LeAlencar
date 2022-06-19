@@ -12,6 +12,7 @@
     </a>
 </div>
 
+----
 
 <div align="right">
      <a href="https://github.com/lealencar">
@@ -23,6 +24,7 @@
 Hi my name is Leandro Alencar and I'm 19 years old.
 Experience in **Full-stack development** with **TypeScript**, **React**, **GraphQL**, **Nodejs**, **PHP**, and more technologies, focusing on products aligned with user needs.
 
+----
 
 ### Currently Stack:
 
