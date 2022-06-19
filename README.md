@@ -1,26 +1,18 @@
-<!--
-**LeAlencar/LeAlencar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<h1 align="center"> Leandro Alencar </h1>
+
+<p align="center">
+~ I'm a Software Developer currently working with Nodejs, React, React Native and PHP. From S ⚛️🌎
+</p>
+
+<div align="center">
+    <a href="https://twitter.com/intent/follow?screen_name=lealencar__">
+        <img src="https://img.shields.io/twitter/follow/lealencar__?style=social&logo=twitter"
+        alt="follow on Twitter">
+    </a>
+</div>
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning web development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/his
-- ⚡ Fun fact: ...
--->
-
-
-## Hello there! My name is Leandro Alencar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
- I'm a Software Developer currently working with Nodejs, React, React Native and PHP. From S
- 
-
-<!-- Actual text -->
 ### Currently Stack:
 
 [<img align="left" alt="ReactJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
