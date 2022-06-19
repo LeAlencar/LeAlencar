@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hello there! My name is Leandro Alencar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
- I'm 19 years old Software Developer from São Paulo, Brazil. Currently working with PHP and Nodejs for some companies. 
+ I'm a Software Developer currently working with Nodejs, React, React Native and PHP. From S
  
 
 <!-- Actual text -->
