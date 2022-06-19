@@ -2,7 +2,7 @@
 <h1 align="center"> Leandro Alencar </h1>
 
 <p align="center">
-~ I'm a Software Developer currently working with Nodejs, React, React Native and PHP. From S ⚛️🌎
+~ Software Developer from São Paulo, Brazil ⚛️🌎
 </p>
 
 <div align="center">
@@ -11,6 +11,17 @@
         alt="follow on Twitter">
     </a>
 </div>
+
+
+<div align="right">
+     <a href="https://github.com/lealencar">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lealencar&hide=html&layout=compact&&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
+        alt="Linguagens mais usadas" align="right">
+    </a>
+</div>
+
+Hi my name is Leandro Alencar and I'm 19 years old.
+Experience in **Full-stack development** with **TypeScript**, **React**, **GraphQL**, **Nodejs**, **PHP**, and more technologies, focusing on products aligned with user needs.
 
 
 ### Currently Stack:
