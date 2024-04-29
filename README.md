@@ -21,7 +21,7 @@
     </a>
 </div>
 
-Hey, what's up? My name is Leandro Alencar and I'm a 20yrs old software developer.
+Hey, what's up? My name is Leandro Alencar and I'm a 21yrs old software developer.
 Experience in **Full-stack development** with **TypeScript**, **React**, **GraphQL**, **Nodejs**, **React Native**, and more technologies, focusing on products aligned with user needs.
 
 
