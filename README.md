@@ -18,7 +18,7 @@ Experience in **Full-stack development** with **TypeScript**, **React**, **Graph
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img src="https://cdn.simpleicons.org/react/#61DAFB" height="40" alt="react logo"  />
+  <img src="https://cdn.simpleicons.org/react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nuxtdotjs/00DC82" height="40" alt="nuxtjs logo"  />
   <img width="12" />
