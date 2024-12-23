@@ -44,16 +44,6 @@ Experience in **Full-stack development** with **TypeScript**, **React**, **Graph
 
 
 
-<h3 align="left">🔥 My Stats :</h3>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=lealencar&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
 [react]: https://reactjs.org/
 [node]: https://nodejs.org/
 [ts]: https://www.typescriptlang.org/
