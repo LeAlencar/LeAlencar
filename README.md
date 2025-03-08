@@ -24,7 +24,7 @@ Experience in **Full-stack development** with **TypeScript**, **React**, **Graph
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" height="40" alt="nodejs logo"  />
   <img width="12" />
